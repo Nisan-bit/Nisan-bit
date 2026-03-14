@@ -1,5 +1,14 @@
+# 📍 Location: Nepal | Terminal: Nisan-bit
 
-<!---
-Nisan-bit/Nisan-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> "I build. I break. I fix. I add my works here."
+
+### 📂 Current Intel (Active Projects)
+* **The Blueprint:** Crafting custom WordPress themes from the ground up (Check out `Khakehashi`).
+* **The Foundation:** Implementing clean CSS and Django-based structures.
+* **The Toolkit:** Experimenting with React and modern JS modules.
+
+### 🛠️ Field Equipment
+`PHP` / `WordPress` / `Python` / `Django` / `JavaScript`
+
+---
+*Status: Deploying code. Staying caffeinated.*
